@@ -15,3 +15,4 @@ Notes and usage details for mcp-k8s.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
