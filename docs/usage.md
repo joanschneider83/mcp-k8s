@@ -29,3 +29,4 @@ Notes and usage details for mcp-k8s.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- fix a small wording issue
