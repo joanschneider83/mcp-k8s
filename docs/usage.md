@@ -43,3 +43,4 @@ Notes and usage details for mcp-k8s.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- fix a small wording issue
