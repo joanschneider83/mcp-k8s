@@ -10,3 +10,4 @@ dist/
 tmp/
 .cache/
 coverage/
+Thumbs.db
